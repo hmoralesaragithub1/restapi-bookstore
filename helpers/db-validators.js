@@ -3,7 +3,7 @@ const { Usuario, Categoria, Producto } = require('../models');
 
 const esRoleValido = async(rol = '') => {
 
-    const existeRol = await Role.findOne({ rol });
+    const existeRol = await Role.findOne({ role:rol });
     if ( !existeRol ) {
         throw new Error(`El rol ${ rol } no está registrado en la BD`);
     }
