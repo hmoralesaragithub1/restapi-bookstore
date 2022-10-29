@@ -7,3 +7,6 @@ Esta API se realizo utilizando muchas tecnologías, entre las que se encuentran 
 
 ## Autenticación
 Se usa la autenticacion por tokens usando jwt.
+
+Se puede acceder a la documentacion completa desde el siguiente link:
+https://documenter.getpostman.com/view/1235165/UVe9QozW
