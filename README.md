@@ -18,7 +18,7 @@ https://github.com/hmoralesaragithub1/BookStore-React
 https://restapi-bookstore-anfer.herokuapp.com
 
 ## Url despliegue Front en React
-https://book-store-react-nu.vercel.app/tienda
+https://book-store-react-nu.vercel.app
 
 Se puede acceder a la documentacion completa de la API, desde el siguiente link:
 https://documenter.getpostman.com/view/1235165/UVe9QozW
